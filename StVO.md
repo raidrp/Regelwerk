@@ -1,6 +1,6 @@
 # § 1 Grundregeln der StVO
 
-- Im Straßenverkehr hat sich jeder Teilnahme so zu verhalten, dass er nicht sich oder andere
+- Im Straßenverkehr hat sich jeder Teilnehmer so zu verhalten, dass er nicht sich oder andere
 
 vorsätzlich gefährdet.
 
@@ -20,7 +20,7 @@ Fahrtrichtung sind (Rechtsfahrgebot).
 
 # § 3 Geschwindigkeiten
 
-- Die folgenden Gebote gelten nicht während Fahrprüfung!
+- Die folgenden Gebote gelten nicht während der Fahrprüfung!
 
 - Die zulässige Höchstgeschwindigkeit beträgt auch unter günstigsten Umständen
 
@@ -74,17 +74,17 @@ Bordsteinen
 
 - Wer sein Fahrzeug verlässt und länger als drei Minuten hält, der parkt.
 
-- Das Parken ist unzulässig
+- Das Parken ist unzulässig:
 
-auf fremden Grundstücken,
+| auf fremden Grundstücken,
 
-an Bordsteinkanten, die gelb oder rot markiert sind,
+| an Bordsteinkanten, die gelb oder rot markiert sind,
 
-auf dem Bürgersteig,
+| auf dem Bürgersteig,
 
-auf Grünflächen,
+| auf Grünflächen,
 
-auf der Autobahn.
+| auf der Autobahn.
 
 - Luftfahrzeuge dürfen nur auf dem eigenen Grundstück, auf speziell mit einem „H“
 
@@ -97,12 +97,6 @@ gekennzeichneten Parkplätzen und am Flughafen geparkt werden.
 - Die Mitnahme von Personen auf dem Dach ist verboten.
 
 - Die Mitnahme von Personen auf der Ladefläche ist verboten.
-
-- Für ein Taxifahrer muss einen Personenbeförderungsschein und eine Taxilizenz mit sich führen
-
-- Ein Beamter im Streifenwagen muss einen Personenbeförderungsschein mit sich führen.
-
-- Ein Medic muss einen Personenbeförderungsschein mit sich führen.
 
 
 
@@ -119,6 +113,8 @@ gekennzeichneten Parkplätzen und am Flughafen geparkt werden.
 - Das Durchdrehen der Reifen ist nicht gestattet.
 
 - Das Versperren von Straßen mit einem Fahrzeug ist verboten.
+
+- das andauernde Verwenden von Fahrzeigen auf kleinen Strecken ist verboten und wird mit einem Strafgeld bestraft.
 
 
 
@@ -142,7 +138,7 @@ sie durch neue Regelungen ersetzt werden.
 
 # § 13 Bußgeld
 
-- jedes vergehen der StVO wird mit einem Bußgeld von 1000 $ geahndet
+- jedes vergehen der StVO wird mit einem Bußgeld von bis zu 1000 $ geahndet
 
 - Ausnahme bildet §S6 - hier wird ein Bußgeld von maximal 500 $ erhoben.
 
