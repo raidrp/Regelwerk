@@ -75,6 +75,7 @@ Bordsteinen
 - Wer sein Fahrzeug verlässt und länger als drei Minuten hält, der parkt.
 
 - Das Parken ist unzulässig:
+
 `
   | auf fremden Grundstücken,
 
@@ -86,6 +87,7 @@ Bordsteinen
 
   | auf der Autobahn.
 `
+
 - Luftfahrzeuge dürfen nur auf dem eigenen Grundstück, auf speziell mit einem „H“
 
 gekennzeichneten Parkplätzen und am Flughafen geparkt werden.
