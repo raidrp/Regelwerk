@@ -77,15 +77,15 @@ Bordsteinen
 - Das Parken ist unzulässig:
 
 
-    | auf fremden Grundstücken,
+   | auf fremden Grundstücken,
 
-    | an Bordsteinkanten, die gelb oder rot markiert sind,
+   | an Bordsteinkanten, die gelb oder rot markiert sind,
 
-    | auf dem Bürgersteig,
+   | auf dem Bürgersteig,
 
-    | auf Grünflächen,
+   | auf Grünflächen,
 
-    | auf der Autobahn.
+   | auf der Autobahn.
 
 
 - Luftfahrzeuge dürfen nur auf dem eigenen Grundstück, auf speziell mit einem „H“
