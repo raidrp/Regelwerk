@@ -2,26 +2,26 @@
 
 **Inhaltsverzeichniss**
 - 1.0 Regelwerk 
-https://github.com/Real-RP/Regelwerk/blob/master/README.md
+https://github.com/raidrp/Regelwerk/blob/master/README.md
 
 - 1.2 Straßenverkehrsordnung 
-https://github.com/Real-RP/Regelwerk/blob/master/StVO.md
+https://github.com/raidrp/Regelwerk/blob/master/StVO.md
 
 - 1.3 Allgemeine Geschäftsbedingungen 
-https://github.com/Real-RP/Regelwerk/blob/master/AGB.md
+https://github.com/raidrp/Regelwerk/blob/master/AGB.md
 
 
 
 
 
 # RaidRP Regelwerk
-// Willkommen im Real-Roleplay Regelwerk //
+// Willkommen im Raid-RP Regelwerk //
 
 
 
 # Einleitung:
 
-Jeder User und jedes Teammitglied hat sich an das Regelwerk und der AGB von Real-Roleplay zu halten. Es gibt keine Ausnahmen für Regelbrüche oder Grauzonen!
+Jeder User und jedes Teammitglied hat sich an das Regelwerk und der AGB von Raid-Roleplay zu halten. Es gibt keine Ausnahmen für Regelbrüche oder Grauzonen!
 Mit dem Verbinden auf dem Server erklärt man sich automatisch mit dem Regelwerk einverstanden.
 Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Ermessen der Admins.
 
@@ -54,7 +54,7 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 §1.9 | Das absichtliche Erzwingen von Regelbrüchen ist strengstens untersagt und führt zum Bann.
 
 
-§1.10 | Fahrzeuge von der Fraktion Sanitäter dürfen nicht gestohlen oder beschädigt werden.Police Department Fahrzeug dürfen ohne ersichtlichen RP Hintergrund nicht gestohlen werden.
+§1.10 | Fahrzeuge von der Fraktion Sanitäter dürfen nicht gestohlen oder beschädigt werden. Police Department Fahrzeug dürfen ohne ersichtlichen RP Hintergrund nicht gestohlen werden. Der Grund "Es war gerade kein anderes Fahrzeug da" wird nicht gedulded und im Ermessen der Admins / Supporter bestraft.
 
 §1.11 | Das absichtliche Versenden von Dispatches, obwohl dieser nicht benötigt wird, ist verboten und wird als Trolling gewertet.
 
@@ -70,18 +70,18 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 # §2. WERBEN
 
-§2.1 | Das Werben für Real-Roleplay auf anderen Servern oder deren Internetpräsenzen ist verboten.
+§2.1 | Das Werben für Raid-Roleplay auf anderen Servern oder deren Internetpräsenzen ist verboten.
 
-§2.2 | Das Werben auf Real-Roleplay von anderen Servern o.ä ist verboten und kann zum Bann führen.
+§2.2 | Das Werben auf Raid-Roleplay von anderen Servern o.ä ist verboten und kann zum Bann führen.
 
-§2.3 | Das Versenden von Links die auf anderen Seiten/Projekte als Real-Roleplay führen, ist zu unterlassen.
+§2.3 | Das Versenden von Links die auf anderen Seiten/Projekte als Raid-Roleplay führen, ist zu unterlassen.
 
 
 # §3.LIFE / NEWLIFE
 
 §3.1 | Das eigene Leben und auch das Leben anderer ist als wertvolles Gut zu betrachen. Dementsprechend sollte alles getan werden, um dieses zu schützen.
 
-§3.2 | Nach dem respawnen im Krankenhaus ist die Stelle des Todes 25 min nicht zu betreten.
+§3.2 | Nach dem respawnen im Krankenhaus ist die Stelle des Todes 25 Minuten nicht zu betreten.
 
 §3.3 | Der "richtige" Tod eines Charakters kann nur durch eine Hinrichtung oder einem Selbstmord eintreten.
 
@@ -92,9 +92,9 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 # §4.Verhalten gegenüber Fraktionen 
 
-§4.1| Der Gebrauch eines Tazers gilt als Schussankündigung.
+§4.1| Der Gebrauch eines Tazers gilt als Schussankündigung, d.h dass Fraktionen Schussfreigabe haben sobald dies erfolgt ist.
 
-§4.2| An einer RP Situation dürfen Maximal 6 Leute einer Fraktion teilnehmen. siehe dazu §8.1
+§4.2| An einer RP Situation dürfen Maximal 5 Leute einer Fraktion teilnehmen. siehe dazu §8.1
 
 
 
@@ -133,7 +133,7 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 §6.5| Das entführen eines Mediziners ist strengstens verboten solange dieser im Dienst ist. Sollte dieser in den Dienst "flüchten" gilt dies nicht
 
-§6.6| Ein Bank- Raub muss und kann erst ab 4 Cops ausgeraubt werden. Jede Wiedersetzung kann zu einem Bann führen.
+§6.6| Eine Bank darf und kann erst ab 4 Cops ausgeraubt werden. Jede Wiedersetzung kann zu einem Bann führen.
 
 # §7| Teamspeak
 
@@ -146,9 +146,9 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 # §8| Gruppierungen/Gangs/Gangkriege
 
-§8.1| Eine Gruppierung/Gang darf maximal aus 6 Personen bestehen.
+§8.1| Eine Gruppierung/Gang darf maximal aus 5 Personen bestehen.
 
-§8.2| Einen Gruppierungsantrag kann ab einer Gruppenstärke von 4 Personen gestellt werden.
+§8.2| Einen Gruppierungsantrag kann ab einer Gruppenstärke von 3 Personen gestellt werden.
 
 §8.3| Eine Gruppierung / Gang muss permanent durch ein eindeutiges Erkennungsmerkmal (Farbe, besonderes Kleidungsstück) von der zivilen Bevölkerung zu unterscheiden sein.
 
@@ -157,14 +157,14 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 §8.5| Das "Kuscheln" von mehren Gang wird nicht gerne gesehen und kann bestraft werden.
 # weitere Dateien
 // StVO //
-https://github.com/Real-RP/Regelwerk/blob/master/StVO.md
+https://github.com/raidrp/Regelwerk/blob/master/StVO.md
 
 // Allgemeine Geschäfts Bedingungen //
-https://github.com/Real-RP/Regelwerk/blob/master/AGB.md
+https://github.com/raidrp/Regelwerk/blob/master/AGB.md
 
 
 # Autoren
 
 - Gigaming / Theo Jess
 
-- Real-RP / Andy
+- Raid-RP / Andy / Mike
