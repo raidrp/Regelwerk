@@ -66,6 +66,8 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 §1.15| Das Verkaufen von Ingame-Geld gegen Währungen oder Gegenstände außerhalb vom Server ist strengstens verboten und wird bestraft.
 
+§1.16| Das Verwenden vom Twitter über dem Handy um OOC Informationen zu verbreiten oder zu erlangen ist strengstens Verboten und wird im Ermessen der Admins / Supporter bestaft.
+
 
 
 # §2. WERBEN
@@ -133,7 +135,7 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 §6.5| Das entführen eines Mediziners ist strengstens verboten solange dieser im Dienst ist. Sollte dieser in den Dienst "flüchten" gilt dies nicht
 
-§6.6| Eine Bank darf und kann erst ab 4 Cops ausgeraubt werden. Jede Wiedersetzung kann zu einem Bann führen.
+§6.6| Eine Bank darf und kann erst ab 3 Cops ausgeraubt werden. Jede Wiedersetzung kann zu einem Bann führen.
 
 # §7| Teamspeak
 
