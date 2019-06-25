@@ -70,20 +70,20 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 
 
-# §2. WERBEN
+# §2. Werben
 
-§2.1 | Das Werben für Raid-Roleplay auf anderen Servern oder deren Internetpräsenzen ist verboten.
+§2.1 | Das Werben für RaidRP auf anderen Servern oder deren Internetpräsenzen ist verboten.
 
-§2.2 | Das Werben auf Raid-Roleplay von anderen Servern o.ä ist verboten und kann zum Bann führen.
+§2.2 | Das Werben auf RaidRP von anderen Servern o.ä ist verboten und kann zum Bann führen.
 
-§2.3 | Das Versenden von Links die auf anderen Seiten/Projekte als Raid-Roleplay führen, ist zu unterlassen.
+§2.3 | Das Versenden von Links die auf anderen Seiten/Projekte als RaidRP führen, ist zu unterlassen.
 
 
-# §3.LIFE / NEWLIFE
+# §3.Leben / Newlife
 
 §3.1 | Das eigene Leben und auch das Leben anderer ist als wertvolles Gut zu betrachen. Dementsprechend sollte alles getan werden, um dieses zu schützen.
 
-§3.2 | Nach dem respawnen im Krankenhaus ist die Stelle des Todes 25 Minuten nicht zu betreten.
+§3.2 | Nach dem respawnen im Krankenhaus ist die Stelle des Todes 15 Minuten nicht zu betreten.
 
 §3.3 | Der "richtige" Tod eines Charakters kann nur durch eine Hinrichtung oder einem Selbstmord eintreten.
 
@@ -96,7 +96,7 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 §4.1| Der Gebrauch eines Tazers gilt als Schussankündigung, d.h dass Fraktionen Schussfreigabe haben sobald dies erfolgt ist.
 
-§4.2| An einer RP Situation dürfen Maximal 5 Leute einer Fraktion teilnehmen. siehe dazu §8.1
+§4.2| An einer RP Situation dürfen Maximal 8 Leute einer Fraktion teilnehmen. siehe dazu §8.1
 
 
 
@@ -110,17 +110,7 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 §5.4| Safezones sind:
 
-    | Geldautomaten (15 Meter)
-    
-    | Krankenhäuser 
-    
-    | Garagen
-    
-    | Autohaus
-    
-    | Kleiderladen (Wenn man sich gerade umzieht)
-    
-    | Jobcenter 
+    | Nur das Krankenhaus (100 Meter)
 
 
 # §6| Geiselnahme und Shopraub
@@ -148,7 +138,7 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 # §8| Gruppierungen/Gangs/Gangkriege
 
-§8.1| Eine Gruppierung/Gang darf maximal aus 5 Personen bestehen.
+§8.1| Eine Gruppierung/Gang darf maximal aus 8 Personen bestehen.
 
 §8.2| Einen Gruppierungsantrag kann ab einer Gruppenstärke von 3 Personen gestellt werden.
 
@@ -156,7 +146,9 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 §8.4| Eine Gang ist für sich verantwortlich und löst ihre Probleme selber.
 
-§8.5| Das "Kuscheln" von mehren Gang wird nicht gerne gesehen und kann bestraft werden.
+§8.5| Alle Frationen die Durchsuchen können (Auch das PD) dürfen Leichen durchsuchen jedoch erst nach 5 Minuten!
+
+§8.6| Das "Kuscheln" von mehren Gang wird nicht gerne gesehen und kann bestraft werden.
 # weitere Dateien
 // StVO //
 https://github.com/raidrp/Regelwerk/blob/master/StVO.md
@@ -170,3 +162,7 @@ https://github.com/raidrp/Regelwerk/blob/master/AGB.md
 - Gigaming / Theo Jess
 
 - Raid-RP / Andy / Mike
+
+- RaidRP / LeuchTii
+
+- RaidRP / KYuna
