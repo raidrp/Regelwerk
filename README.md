@@ -1,4 +1,4 @@
-# Regelwerk amk
+# Regelwerk
 
 **Inhaltsverzeichniss**
 - 1.0 Regelwerk 
