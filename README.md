@@ -92,11 +92,19 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 §3.4 | Informationen die man während der Bewusstlosigkeit mitbekommt darf man im RP nicht verwenden.
 
 
-# §4.Verhalten gegenüber Fraktionen 
+# §4.Verhalten gegenüber Fraktionen / Schussankündigungen
 
 §4.1| Der Gebrauch eines Tazers gilt als Schussankündigung, d.h dass Fraktionen Schussfreigabe haben sobald dies erfolgt ist.
 
 §4.2| An einer RP Situation dürfen Maximal 8 Leute einer Fraktion teilnehmen. siehe dazu §8.1
+
+§4.3| Falls eine Gang/Polizei, eine feindliches Gang-Gebiet betritt, können diese, nachdem 3x in die Luft geschossen wurde, sofort      erschossen werden
+
+§4.4| Das beschießen der Reifen ist dann zulässig, wenn die verbale Kommunikation gescheitert ist
+
+§4.5| Die Polizei ist zu 100% zu Respektieren, sofern ihre Arbeit gemäß den Gesetzen erfolgt,keine provokation oder unnötiges Anliegen herrscht
+
+
 
 
 
@@ -136,7 +144,7 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 §7.3| Aufnahmen im Teamspeak sind ohne Genehmigung nicht gestattet.
 
 
-# §8| Gruppierungen/Gangs/Gangkriege
+# §8| Gruppierungen/Gangs/Leichenaktionen
 
 §8.1| Eine Gruppierung/Gang darf maximal aus 8 Personen bestehen.
 
@@ -146,9 +154,11 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 §8.4| Eine Gang ist für sich verantwortlich und löst ihre Probleme selber.
 
-§8.5| Alle Frationen die Durchsuchen können (Auch das PD) dürfen Leichen durchsuchen jedoch erst nach 5 Minuten!
+§8.5| Der Loot einer Leiche, darf erst nach 5 Minuten getätigt werden oder wenn der Medic den Tod bestätigt hat.
 
-§8.6| Das "Kuscheln" von mehren Gang wird nicht gerne gesehen und kann bestraft werden.
+§8.6| Kopfschüsse zählen nur dann wenn die Todesursache/Medic dies bestätigt.
+
+§8.7| Das "Kuscheln" von mehren Gang wird nicht gerne gesehen und kann bestraft werden.
 # weitere Dateien
 // StVO //
 https://github.com/raidrp/Regelwerk/blob/master/StVO.md
