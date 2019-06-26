@@ -104,6 +104,8 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 §4.5| Die Polizei ist zu 100% zu Respektieren, sofern ihre Arbeit gemäß den Gesetzen erfolgt,keine provokation oder unnötiges Anliegen herrscht
 
+§4.6| Eine Ankündigung ist nicht erforderlich, wenn Man sich gegen die Anwendung von Waffengewalt und Niederschlagen verteidigt
+
 
 
 
