@@ -106,6 +106,8 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 §4.6| Eine Ankündigung ist nicht erforderlich, wenn Man sich gegen die Anwendung von Waffengewalt und Niederschlagen verteidigt
 
+§4.7| Die Mediziner sind dazu verpflichtet deren Dispatches mit Dienstfahrzeugen anzufahren!
+
 
 
 
@@ -161,6 +163,7 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 §8.6| Kopfschüsse zählen nur dann wenn die Todesursache/Medic dies bestätigt.
 
 §8.7| Das "Kuscheln" von mehren Gang wird nicht gerne gesehen und kann bestraft werden.
+
 # weitere Dateien
 // StVO //
 https://github.com/raidrp/Regelwerk/blob/master/StVO.md
