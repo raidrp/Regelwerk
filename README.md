@@ -94,7 +94,7 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 # §4.Verhalten gegenüber Fraktionen / Schussankündigungen
 
-§4.1| Der Gebrauch eines Tazers gilt als Schussankündigung, d.h dass Fraktionen Schussfreigabe haben sobald dies erfolgt ist.
+§4.1| Der Gebrauch eines Tazers ist KEINE Schussankündigung!
 
 §4.2| An einer RP Situation dürfen Maximal 8 Leute einer Fraktion teilnehmen. siehe dazu §8.1
 
