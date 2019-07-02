@@ -96,7 +96,7 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 §4.1| Der Gebrauch eines Tazers ist KEINE Schussankündigung!
 
-§4.2| An einer RP Situation dürfen Maximal 8 Leute einer Fraktion teilnehmen. siehe dazu §8.1
+§4.2| An einer RP Situation dürfen Maximal 5 Leute einer Fraktion teilnehmen. siehe dazu §8.1
 
 §4.3| Falls eine Gang/Polizei, eine feindliches Gang-Gebiet betritt, können diese, nachdem 3x in die Luft geschossen wurde, sofort      erschossen werden
 
@@ -150,9 +150,9 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 # §8| Gruppierungen/Gangs/Leichenaktionen
 
-§8.1| Eine Gruppierung/Gang darf maximal aus 8 Personen bestehen.
+§8.1| Eine Gruppierung/Gang darf maximal aus 5 Personen bestehen.
 
-§8.2| Einen Gruppierungsantrag kann ab einer Gruppenstärke von 4 Personen gestellt werden.
+§8.2| Einen Gruppierungsantrag kann ab einer Gruppenstärke von 3 Personen gestellt werden.
 
 §8.3| Eine Gruppierung / Gang muss permanent durch ein eindeutiges Erkennungsmerkmal (Farbe, besonderes Kleidungsstück) von der zivilen Bevölkerung zu unterscheiden sein.
 
