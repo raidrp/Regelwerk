@@ -164,6 +164,10 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 §8.7| Das "Kuscheln" von mehren Gang wird nicht gerne gesehen und kann bestraft werden.
 
+# §9| StVo
+
+$9.1| Strop (street race on purpose), also das absichtliche überfahren von roten Ampeln, herausfordern anderer Verkehrsteilnehmer und das zu schnelle Fahren auf nicht Autobahnen, ist ein Event und muss daher einen RP Grund haben.
+
 # weitere Dateien
 // StVO //
 https://github.com/raidrp/Regelwerk/blob/master/StVO.md
