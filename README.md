@@ -150,9 +150,9 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 # §8| Gruppierungen/Gangs/Leichenaktionen
 
-§8.1| Eine Gruppierung/Gang darf maximal aus 5 Personen bestehen.
+§8.1| Eine Gruppierung/Gang darf maximal aus 7 Personen bestehen.
 
-§8.2| Einen Gruppierungsantrag kann ab einer Gruppenstärke von 3 Personen gestellt werden.
+§8.2| Einen Gruppierungsantrag kann ab einer Gruppenstärke von 4 Personen gestellt werden.
 
 §8.3| Eine Gruppierung / Gang muss permanent durch ein eindeutiges Erkennungsmerkmal (Farbe, besonderes Kleidungsstück) von der zivilen Bevölkerung zu unterscheiden sein.
 
