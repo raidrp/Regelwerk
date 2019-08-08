@@ -68,6 +68,9 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 §1.16| Das Verwenden vom Twitter über dem Handy um OOC Informationen zu verbreiten oder zu erlangen ist strengstens Verboten und wird im Ermessen der Admins / Supporter bestaft.
 
+§2| Das Verwenden Stimmverzerrer ist strengstens verboten, ausnahme dafür ist das Noose-Team!
+
+
 
 
 # §2. Werben
