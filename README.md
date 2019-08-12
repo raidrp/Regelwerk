@@ -99,7 +99,7 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 §4.1| Der Gebrauch eines Tazers ist KEINE Schussankündigung!
 
-§4.2| An einer RP Situation dürfen Maximal 5 Leute einer Fraktion teilnehmen. siehe dazu §8.1
+§4.2| An einer RP Situation dürfen Maximal 7 Leute einer Fraktion teilnehmen. siehe dazu §8.1
 
 §4.3| Falls eine Gang/Polizei, eine feindliches Gang-Gebiet betritt, können diese, nachdem 3x in die Luft geschossen wurde, sofort      erschossen werden
 
