@@ -33,6 +33,8 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 §1.1.1 | Jeder Spieler ist verpflichtet, Vorfälle die §1.1. betreffen sofort dem Support zu melden.
 
+§1.1.2 | Combat Logging wird als cheat gewertet und mit einem permanenten Bann bestraft.
+
 §1.2 | Extreme Beleidigungen, Rassismus, Androhungen von sexuellen Taten, RDM und VDM sind verboten und werden mit einem permanenten Bann bestraft.
 
 §1.3 | Metagaming, also das verwenden von OOC Informationen Ingame ist verboten (z.B Videos, Teamspeak, Stream-Snipen, etc).
