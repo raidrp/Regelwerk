@@ -14,14 +14,14 @@ https://github.com/raidrp/Regelwerk/blob/master/AGB.md
 
 
 
-# RaidRP Regelwerk
-// Willkommen im Raid-RP Regelwerk //
+# HolyState Regelwerk
+// Willkommen im HolyState Regelwerk //
 
 
 
 # Einleitung:
 
-Jeder User und jedes Teammitglied hat sich an das Regelwerk und der AGB von Raid-Roleplay zu halten. Es gibt keine Ausnahmen für Regelbrüche oder Grauzonen!
+Jeder User und jedes Teammitglied hat sich an das Regelwerk und der AGB von HolyState zu halten. Es gibt keine Ausnahmen für Regelbrüche oder Grauzonen!
 Mit dem Verbinden auf dem Server erklärt man sich automatisch mit dem Regelwerk einverstanden.
 Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Ermessen der Admins.
 
