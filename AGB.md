@@ -1,8 +1,8 @@
-# Offizielle AGB des Servers RaidRP vom 30.05.2019
+# Offizielle AGB des Servers HolyState vom 30.05.2019
 
 # Einleitung
 `Diese AGB gilt zu 100% und kann in keinem Fall umgangen werden.`
-`Sie beinhaltet eure Rechte und Vorschriften zu der Benutzung des FiveM Servers RaidRP 
+`Sie beinhaltet eure Rechte und Vorschriften zu der Benutzung des FiveM Servers HolyState 
 und hat höchste Priorität im Falle eines Missverständnisses o.ä.`
      
 # Haftbarkeit
@@ -10,13 +10,13 @@ und hat höchste Priorität im Falle eines Missverständnisses o.ä.`
 bereits bei dem Kauf von GTA stimmen Sie zu, GTA mit 18 Jahren erworben zu haben.
 Sollte dies nicht der Fall sein, sind Sie für alle Verstöße oder ihre Eltern aufzukommen.
 
-- Im Falle eines permanenten oder temporären Bannes kommt Raid Roleplay nicht für die "gestohlene" Zeit auf,
+- Im Falle eines permanenten oder temporären Bannes kommt HolyState nicht für die "gestohlene" Zeit auf,
 die benötigt wurde um bestimmte ingame- Items oder Gegenstände zu erarbeiten.
 
-- Im Falle das ihr GTA nicht mehr funktioniert o.ä. kommt RaidRP *nicht* hierfür auf.
+- Im Falle das ihr GTA nicht mehr funktioniert o.ä. kommt HolyState *nicht* hierfür auf.
 Wir verwenden nur getestete resourcen und fügen niemals resourcen ein die Schädlich sind oder 
 Informationen über ihr Konto sammeln. Probleme mit FiveM können im FiveM Support erklärt werden,
-dafür ist RaidRP nicht zuständig.
+dafür ist HolyState nicht zuständig.
 
 # Strafen
 - Sollte ein allgemeines Vergehen, gegen die Allgemeinen Regeln vorliegen, hält sich das Admin Team vor eine gerechte
@@ -39,7 +39,7 @@ Recht diese Werbung abzulehnen, woran sich der werbende halten **muss**.
 
 # Autoren
 
-- RaidRP / Andy
+- HolyState / Andy
 
 
-©Copyright-@Raid-RP_2019
+©Copyright-@HolyState_2019
